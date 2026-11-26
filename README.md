@@ -38,18 +38,21 @@
 | **Ingeniería de Datos** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
-## 📌 Proyecto Destacado
+## 📌 Proyectos Destacados
 
-<a href="https://github.com/JuanYanaya88/olist-ecommerce-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanYanaya88&repo=olist-ecommerce-analytics&theme=tokyonight&hide_border=true" alt="olist-ecommerce-analytics"/>
-</a>
+<p align="center">
+  <a href="https://github.com/JuanYanaya88/olist-ecommerce-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanYanaya88&repo=olist-ecommerce-analytics&theme=tokyonight&hide_border=true" alt="olist-ecommerce-analytics"/>
+  </a>
+  <a href="https://github.com/JuanYanaya88/healthcare-appointments-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanYanaya88&repo=healthcare-appointments-analytics&theme=tokyonight&hide_border=true" alt="healthcare-appointments-analytics"/>
+  </a>
+</p>
 
-**Análisis de Datos E-Commerce end-to-end (Olist Brasil)** sobre **96,470 órdenes entregadas** y **R$ 13.2M en ventas**: consultas analíticas en **SQL** (CTEs, Window Functions, Pareto 80/20 y RFM), ETL y Modelo Estrella en **Python**, reporte ejecutivo con fórmulas dinámicas en **Excel**, kit de medidas DAX para **Power BI** y dashboard interactivo en **Streamlit**.
-
-```mermaid
-flowchart LR
-    A[📦 Datos Olist] --> B[(🗄️ SQL)] --> C[🐍 Python ETL] --> D[📊 Excel & Power BI]
-```
+| Proyecto | Sector | Enfoque y Herramientas | Resultados Clave |
+| :--- | :---: | :--- | :--- |
+| [**Olist E-Commerce Analytics**](https://github.com/JuanYanaya88/olist-ecommerce-analytics) | 🛒 E-Commerce | **SQL, Python, Excel, Power BI, Streamlit** — Ventas, Pareto 80/20, Logística SLA y Segmentación RFM | **96,470 órdenes**, **R$ 13.2M** en ventas, impacto de retrasos >7d en reseñas (**1.73 ★**) y oportunidad de retención (**3.0%** recompra) |
+| [**Healthcare Appointments Analytics**](https://github.com/JuanYanaya88/healthcare-appointments-analytics) | 🏥 Salud | **SQL, Python, Excel, Power BI, Streamlit** — Inasistencia a citas médicas (No-Show), test Chi² de SMS y riesgo de pacientes | **47,654 citas**, **$632.9k USD** en pérdidas por No-Show (**21.6%**), reducción de **-31.3%** con SMS y **+$83.4k USD** recuperables |
 
 ## 📈 Estadísticas
 
